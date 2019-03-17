@@ -9,9 +9,7 @@ Expanding upon/TO-DO:
 
 ## Quick setup:
 
-Clone the repository
-
-Traverse to the directory of what you just cloned and run:
+Clone the repository, then traverse to the directory of what you just cloned and run:
 
 ```
 npm install
@@ -22,3 +20,7 @@ That should install the dependencies, then you can start the app with:
 ```
 yarn start
 ```
+
+## Quick Demo
+
+![alt text](https://thumbs.gfycat.com/SeveralAgitatedHind-size_restricted.gif)
