@@ -1,6 +1,6 @@
 # Multi Step Form using React/Material UI
 
-This is a basic multi step React form where a user can enter data and traverse multiple pages of input without "changing" the webpage they are on. Going back will preserve their input.
+This is a basic multi step React form where a user can enter data and traverse multiple pages of input without "changing" the webpage they are on. Going back using the "Previous" button will preserve their input.
 
 Expanding upon/TO-DO: 
 
